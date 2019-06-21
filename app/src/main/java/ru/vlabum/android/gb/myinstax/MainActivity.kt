@@ -2,10 +2,10 @@ package ru.vlabum.android.gb.myinstax
 
 import android.os.Bundle
 import android.view.View
+import com.arellomobile.mvp.MvpAppCompatActivity
 import com.arellomobile.mvp.presenter.InjectPresenter
 import com.arellomobile.mvp.presenter.ProvidePresenter
 import kotlinx.android.synthetic.main.activity_main.*
-import ru.vlabum.android.gb.myinstax.androidx.MvpAppCompatActivity
 import ru.vlabum.android.gb.myinstax.presenter.MainPresenter
 import ru.vlabum.android.gb.myinstax.view.MainView
 

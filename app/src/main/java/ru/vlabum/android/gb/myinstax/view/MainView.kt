@@ -9,4 +9,5 @@ interface MainView : MvpView {
     fun setViewText1(value: Int)
     fun setViewText2(value: Int)
     fun setViewText3(value: Int)
+    fun setViewText4(value: CharSequence)
 }
